@@ -1,10 +1,7 @@
 \docType{data}
 \name{fl.crime}
 \alias{fl.crime}
-\title{Florida Crime Data
-
-Crime data for florida counties. Table 9.16 or 9.17 from the 4th edition.
-Source: Dr. Larry Winner, University of Florida.}
+\title{Florida Crime Data}
 \format{\Sexpr[stage=build,results=rd]{data(fl.crime); smss:::describe_df(fl.crime)}
 \describe{
    \item{\code{County}}{county name}
@@ -17,8 +14,6 @@ Source: Dr. Larry Winner, University of Florida.}
   \url{http://www.stat.ufl.edu/~aa/social/data.html}
 }
 \description{
-  Florida Crime Data
-
   Crime data for florida counties. Table 9.16 or 9.17 from
   the 4th edition. Source: Dr. Larry Winner, University of
   Florida.

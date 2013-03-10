@@ -1,7 +1,7 @@
 ##' @name house.selling.price.2
 ##' @title House Selling Price 2 Data
 ##' 
-##' Selling price of homes in Gainesville, Florida, January 1996. Table 9.4  in 3rd edition.
+##' @description Selling price of homes in Gainesville, Florida, January 1996. Table 9.4  in 3rd edition.
 ##' Data provided by Jane Myers, Coldwell-Banker Realty.
 ##'
 ##' @docType data

@@ -1,7 +1,7 @@
 ##' @name smss-package
 ##' @title Data from Agresti "Statistical Methods for the Social Sciences"
 ##'
-##' Data-only package with the datasets used by the textbook, \emph{Statististical Methods for the Social Sciences}
+##' @description Data-only package with the datasets used by the textbook, \emph{Statististical Methods for the Social Sciences}
 ##' by Alan Agresti and Barbara Finlay.
 ##'
 ##' \itemize{

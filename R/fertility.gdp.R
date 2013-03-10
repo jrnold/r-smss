@@ -1,7 +1,7 @@
 ##' @name fertility.gdp
 ##' @title Fertility and GDP Data
 ##'
-##' Table 14.6 from the 4th edition.
+##' @description Table 14.6 from the 4th edition.
 ##'
 ##' @docType data
 ##'

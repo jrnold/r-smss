@@ -14,5 +14,9 @@
 \description{
   Table 14.6 from the 4th edition.
 }
+\examples{
+data(fertility.gdp)
+summary(fertility.gdp)
+}
 \keyword{datasets}
 

@@ -16,5 +16,8 @@
 ##' \item{\code{Size}}{size of home (square feet)}
 ##' }
 ##'
+##' @examples
+##' data(house.selling.price)
+##' summary(house.selling.price)
 ##' @source \url{http://www.stat.ufl.edu/~aa/social/data.html}
 NULL

@@ -18,5 +18,8 @@
 ##' \item{\code{T}}{number of televisions per 100 people.}
 ##' }
 ##'
+##' @examples
+##' data(birth.rates)
+##' summary(birth.rates)
 ##' @source \url{http://www.stat.ufl.edu/~aa/social/data.html}
 NULL

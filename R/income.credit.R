@@ -8,5 +8,8 @@
 ##' @docType data
 ##' @format \Sexpr[stage=build,results=rd]{data(income.credit); smss:::df_format(income.credit)}
 ##'
+##' @examples
+##' data(income.credit)
+##' summary(income.credit)
 ##' @source \url{http://www.stat.ufl.edu/~aa/social/data.html}
 NULL

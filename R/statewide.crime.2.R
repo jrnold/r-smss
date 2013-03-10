@@ -18,5 +18,8 @@
 ##' \item{\code{S}}{percent of families headed by a single parent. }
 ##' }
 ##'
+##' @examples
+##' data(statewide.crime.2)
+##' summary(statewide.crime.2)
 ##' @source \url{http://www.stat.ufl.edu/~aa/social/data.html}
 NULL

@@ -21,5 +21,9 @@
   Birth rates of several nations. Table 9.13 of 3rd
   edition.
 }
+\examples{
+data(birth.rates)
+summary(birth.rates)
+}
 \keyword{datasets}
 

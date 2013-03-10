@@ -23,6 +23,9 @@
 ##' 
 ##' @source
 ##' \url{http://www.stat.ufl.edu/~aa/social/data.html}
-##' 
+##'
+##' @examples
+##' data(UNdata)
+##' summary(UNdata)
 ##' @docType data
 NULL

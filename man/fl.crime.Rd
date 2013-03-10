@@ -18,5 +18,9 @@
   the 4th edition. Source: Dr. Larry Winner, University of
   Florida.
 }
+\examples{
+data(fl.crime)
+summary(fl.crime)
+}
 \keyword{datasets}
 

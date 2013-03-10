@@ -14,6 +14,8 @@
 ##'    \item{\code{before}}{Weight before treatment}
 ##'    \item{\code{after}}{Weight after treatment}
 ##' }
-##'
+##' @examples
+##' data(anorexia)
+##' summary(anorexia)
 ##' @source \url{http://www.stat.ufl.edu/~aa/social/data.html}
 NULL

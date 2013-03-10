@@ -9,5 +9,9 @@
 \description{
   US population size by decade. Table 14.8 of 4th edition.
 }
+\examples{
+data(us.pop.size)
+summary(us.pop.size)
+}
 \keyword{datasets}
 

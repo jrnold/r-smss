@@ -18,5 +18,9 @@
   2006, from Alachua County public records. Excerpt in
   Table 9.4 of 4th edition.
 }
+\examples{
+data(house.selling.price)
+summary(house.selling.price)
+}
 \keyword{datasets}
 

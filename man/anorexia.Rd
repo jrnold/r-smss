@@ -18,5 +18,9 @@
   Everitt, Institute of Psychiatry, London, for supplying
   these data.
 }
+\examples{
+data(anorexia)
+summary(anorexia)
+}
 \keyword{datasets}
 

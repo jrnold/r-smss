@@ -11,5 +11,8 @@
 ##' \item{\code{HS}}{percent high school graduates}
 ##' \item{\code{PO}}{percent below the poverty level.}
 ##' }
+##' @examples
+##' data(crime2005)
+##' summary(crime2005)
 ##' @source \url{http://www.stat.ufl.edu/~aa/social/data.html}
 NULL

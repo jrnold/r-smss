@@ -25,5 +25,9 @@
 
   Table 9.13 in the 4th Edition.
 }
+\examples{
+data(UNdata)
+summary(UNdata)
+}
 \keyword{datasets}
 

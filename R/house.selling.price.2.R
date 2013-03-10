@@ -14,5 +14,8 @@
 ##' \item{\code{New}}{whether new (1 = yes, 0 = no)}
 ##' }
 ##'
+##' @examples
+##' data(house.selling.price.2)
+##' summary(house.selling.price.2)
 ##' @source \url{http://www.stat.ufl.edu/~aa/social/data.html}
 NULL

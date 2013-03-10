@@ -11,5 +11,9 @@
   racial-ethnic group (Black, Hispanic, White). Table 13.1
   of 4th edition.
 }
+\examples{
+data(inc.ed.race.13p1)
+summary(inc.ed.race.13p1)
+}
 \keyword{datasets}
 

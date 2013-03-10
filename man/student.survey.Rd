@@ -30,5 +30,9 @@
   in the social sciences enrolled in STA 6126 in a recent
   term at the University of Florida.
 }
+\examples{
+data(student.survey)
+summary(student.survey)
+}
 \keyword{datasets}
 

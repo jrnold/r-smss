@@ -15,5 +15,9 @@
   Quantitativi, Universita; Luigi Bocconi, a cura di R.
   Piccarreta (1993). Table 15.1 of 4th edition.
 }
+\examples{
+data(income.credit)
+summary(income.credit)
+}
 \keyword{datasets}
 

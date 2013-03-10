@@ -7,5 +7,8 @@
 ##' @docType data
 ##' @format \Sexpr[stage=build,results=rd]{data(zagat); smss:::df_format(zagat)}
 ##'
+##' @examples
+##' data(zagat)
+##' summary(zagat)
 ##' @source \url{http://www.stat.ufl.edu/~aa/social/data.html}
 NULL

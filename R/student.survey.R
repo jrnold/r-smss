@@ -23,5 +23,8 @@
 ##' \item{\code{AA}}{support affirmative action}
 ##' \item{\code{LD}}{belief in life after death}
 ##' }
+##' @examples
+##' data(student.survey)
+##' summary(student.survey)
 ##' @source \url{http://www.stat.ufl.edu/~aa/social/data.html}
 NULL

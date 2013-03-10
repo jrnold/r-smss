@@ -13,5 +13,8 @@
 ##'    \item{\code{U}}{percent urban}
 ##' }
 ##' @source \url{http://www.stat.ufl.edu/~aa/social/data.html}
+##' @examples
+##' data(fl.crime)
+##' summary(fl.crime)
 ##' @docType data
 NULL

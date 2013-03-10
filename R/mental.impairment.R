@@ -14,7 +14,10 @@
 ##' \item{\code{life}}{Life events score}
 ##' \item{\code{ses}}{Social economic status}
 ##' }
-##' 
+##'
+##' @examples
+##' data(mental.impairment)
+##' summary(mental.impairment)
 ##' @source \url{http://www.stat.ufl.edu/~aa/social/data.html}
 NULL
 

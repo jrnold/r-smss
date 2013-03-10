@@ -22,5 +22,8 @@
 ##' \item{\code{FemEcon}}{Female economic activity as a percentage of the male rate}
 ##' }
 ##'
+##' @examples
+##' data(oecd.data)
+##' summary(oecd.data)
 ##' @source \url{http://www.stat.ufl.edu/~aa/social/data.html}
 NULL

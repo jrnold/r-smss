@@ -7,5 +7,8 @@
 ##' @docType data
 ##' @format \Sexpr[stage=build,results=rd]{data(inc.ed.race.13p1); smss:::df_format(inc.ed.race.13p1)}
 ##'
+##' @examples
+##' data(inc.ed.race.13p1)
+##' summary(inc.ed.race.13p1)
 ##' @source \url{http://www.stat.ufl.edu/~aa/social/data.html}
 NULL

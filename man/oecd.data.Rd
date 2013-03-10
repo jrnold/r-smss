@@ -25,5 +25,9 @@
 
   See Table 3.11 and Exercise 3.6.
 }
+\examples{
+data(oecd.data)
+summary(oecd.data)
+}
 \keyword{datasets}
 

@@ -16,5 +16,9 @@
   1996. Table 9.4 in 3rd edition. Data provided by Jane
   Myers, Coldwell-Banker Realty.
 }
+\examples{
+data(house.selling.price.2)
+summary(house.selling.price.2)
+}
 \keyword{datasets}
 

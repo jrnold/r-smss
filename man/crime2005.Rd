@@ -16,4 +16,8 @@
 \description{
   Data from the Statistical Abstract of the United States
 }
+\examples{
+data(crime2005)
+summary(crime2005)
+}
 

@@ -16,5 +16,9 @@
   mental health. Source A. Charles Holzer.  See Table 11.1
   of the 4th edition.
 }
+\examples{
+data(mental.impairment)
+summary(mental.impairment)
+}
 \keyword{datasets}
 

@@ -22,5 +22,9 @@
   9.1 of the 3rd edition, and some appear in Table 9.1 of
   the 4th edition.
 }
+\examples{
+data(statewide.crime.2)
+summary(statewide.crime.2)
+}
 \keyword{datasets}
 

@@ -10,5 +10,9 @@
   Zagat restraunt rating of Italian Restraunts Data.
   Examples 3.59, 3.60, and 9.38 of 4th edition.
 }
+\examples{
+data(zagat)
+summary(zagat)
+}
 \keyword{datasets}
 

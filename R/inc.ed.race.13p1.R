@@ -1,5 +1,5 @@
 ##' @name inc.ed.race.13p1
-##' @title House Selling Price Data
+##' @title Income, Education and Race Data
 ##'
 ##' @description Data on annual income, number of years of eduction, and racial-ethnic group (Black, Hispanic, White).
 ##' Table 13.1 of 4th edition.

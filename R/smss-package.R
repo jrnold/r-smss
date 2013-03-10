@@ -1,12 +1,12 @@
-##' @name SMSS package
+##' @name smss-package
 ##' @title Data from Agresti "Statistical Methods for the Social Sciences"
 ##'
-##' Data-only package with the datasets used by the textbook, \emph{Statististical Methods for the Social fSciences}
-##' by Alan Agresti.
+##' Data-only package with the datasets used by the textbook, \emph{Statististical Methods for the Social Sciences}
+##' by Alan Agresti and Barbara Finlay.
 ##'
 ##' \itemize{
-##' \item{Agresti, Alan (2008), \emph{Statistical Methods for the Social Sciences}, 4th ed., Pearson}
-##' \item{Agresti, Alan (1997), \emph{Statistical Methods for the Social Sciences}, 3rd ed., Pearson}
+##' \item{Agresti, Alan and Barbara Finlay (2008), \emph{Statistical Methods for the Social Sciences}, 4th ed., Pearson}
+##' \item{Agresti, Alan and Barbara Finlay (1997), \emph{Statistical Methods for the Social Sciences}, 3rd ed., Pearson}
 ##' }
 ##' 
 ##' The datasets included in this package are those avaialable at

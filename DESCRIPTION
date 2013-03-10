@@ -1,15 +1,15 @@
 Package: smss
 Version: 0.0.1
 Date: 2013-3-10
-Title: Datasets for Agresti's SMSS
+Title: Datasets for Agresti and Finlay's SMSS
 Authors@R: c(person("Jeffrey B.", "Arnold", role = c("aut", "cre"),
     email = "jeffrey.arnold@gmail.com"))
 Author: Jeffrey B. Arnold <jeffrey.arnold@gmail.com>
 Maintainer: Jeffrey B. Arnold <jeffrey.arnold@gmail.com>
 Suggests:
     devtools
-Description: Datasets used by Statistical Methods for the Social Sciences (SMSS) by
-    Alan Agresti.
+Description: Datasets used by Statistical Methods for the Social Sciences
+    (SMSS) by A. Agresti and B. Finlay.
 License: GPL-3
 Collate:
     'UNdata.R'

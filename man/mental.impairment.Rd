@@ -14,7 +14,7 @@
 \description{
   Data from a study in Alachua County, Florida on between
   mental health. Source A. Charles Holzer.  See Table 11.1
-  of the 4th edition of Agresti.
+  of the 4th edition.
 }
 \keyword{datasets}
 

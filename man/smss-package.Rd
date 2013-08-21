@@ -6,7 +6,7 @@
   \emph{Statististical Methods for the Social Sciences} by
   Alan Agresti and Barbara Finlay.
 
-  \itemize{ \item{Agresti, Alan and Barbara Finlay (2008),
+  \itemize{ \item{Agresti, Alan and Barbara Finlay (2009),
   \emph{Statistical Methods for the Social Sciences}, 4th
   ed., Pearson} \item{Agresti, Alan and Barbara Finlay
   (1997), \emph{Statistical Methods for the Social

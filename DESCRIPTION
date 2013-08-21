@@ -1,14 +1,16 @@
 Package: smss
-Version: 0.0.2
+Version: 0.0.3
 Date: 2013-3-10
-Title: Datasets for Agresti and Finlay's SMSS
+Title: Datasets for Agresti and Finlay's "Statistical Methods for the Social
+    Sciences"
 Authors@R: c(person("Jeffrey B.", "Arnold", role = c("aut", "cre"),
-    email = "jeffrey.arnold@gmail.com"))
-Copyright: Alan Agresti (datasets)
+    email = "jeffrey.arnold@gmail.com"),
+    person("Alan", "Agresti", role = c("cph")),
+    person("Barbara", "Finlay", role = c("cph")))
 Suggests:
     devtools
-Description: Datasets used by Statistical Methods for the Social Sciences
-    (SMSS) by A. Agresti and B. Finlay.
+Description: Datasets used in "Statistical Methods for the Social Sciences"
+    (SMSS) by Aalan Agresti and Barbara Finlay.
 License: GPL-3
 Collate:
     'UNdata.R'

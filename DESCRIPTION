@@ -1,6 +1,6 @@
 Package: smss
 Version: 1.0-1
-Date: 2013-3-10
+Date: 2013-8-22
 Title: Datasets for Agresti and Finlay's "Statistical Methods for the Social
     Sciences"
 Authors@R: c(person("Jeffrey B.", "Arnold", role = c("aut", "cre"),

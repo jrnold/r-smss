@@ -10,17 +10,15 @@
    \item{\code{after}}{Weight after treatment}
 }}
 \source{
-  \url{http://www.stat.ufl.edu/~aa/social/data.html}
+\url{http://www.stat.ufl.edu/~aa/social/data.html}
 }
 \description{
-  Weights of Anorexic girls, before and after receiving one
-  of three possible therapies. Thanks to Prof. Brian
-  Everitt, Institute of Psychiatry, London, for supplying
-  these data.
+Weights of Anorexic girls, before and after receiving one
+of three possible therapies. Thanks to Prof. Brian Everitt,
+Institute of Psychiatry, London, for supplying these data.
 }
 \examples{
 data(anorexia)
 summary(anorexia)
 }
-\keyword{datasets}
 

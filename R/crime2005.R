@@ -7,7 +7,9 @@
 ##' \item{\code{STATE}}{U.S. state}
 ##' \item{\code{VI}}{violent crime rate (number of violent crimes per 100,000 population)}
 ##' \item{\code{VI2}}{violent crime rate (number of violent crimes per 10,000 population)}
-##' \item{\code{MU}}{murder rate, ME = percent in metropolitan areas, WH = percent white}
+##' \item{\code{MU}}{murder rate}
+##' \item{\code{ME}}{percent in metropolitan areas}
+##' \item{\code{WH}}{percent white}
 ##' \item{\code{HS}}{percent high school graduates}
 ##' \item{\code{PO}}{percent below the poverty level.}
 ##' }

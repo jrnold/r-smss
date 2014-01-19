@@ -9,16 +9,15 @@
 \item{\code{New}}{whether new (1 = yes, 0 = no)}
 }}
 \source{
-  \url{http://www.stat.ufl.edu/~aa/social/data.html}
+\url{http://www.stat.ufl.edu/~aa/social/data.html}
 }
 \description{
-  Selling price of homes in Gainesville, Florida, January
-  1996. Table 9.4 in 3rd edition. Data provided by Jane
-  Myers, Coldwell-Banker Realty.
+Selling price of homes in Gainesville, Florida, January
+1996. Table 9.4 in 3rd edition. Data provided by Jane
+Myers, Coldwell-Banker Realty.
 }
 \examples{
 data(house.selling.price.2)
 summary(house.selling.price.2)
 }
-\keyword{datasets}
 

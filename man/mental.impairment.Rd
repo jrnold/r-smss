@@ -9,16 +9,15 @@
 \item{\code{ses}}{Social economic status}
 }}
 \source{
-  \url{http://www.stat.ufl.edu/~aa/social/data.html}
+\url{http://www.stat.ufl.edu/~aa/social/data.html}
 }
 \description{
-  Data from a study in Alachua County, Florida on between
-  mental health. Source A. Charles Holzer.  See Table 11.1
-  of the 4th edition.
+Data from a study in Alachua County, Florida on between
+mental health. Source A. Charles Holzer.  See Table 11.1 of
+the 4th edition.
 }
 \examples{
 data(mental.impairment)
 summary(mental.impairment)
 }
-\keyword{datasets}
 

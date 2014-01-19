@@ -14,17 +14,16 @@
 \item{\code{S}}{percent of families headed by a single parent. }
 }}
 \source{
-  \url{http://www.stat.ufl.edu/~aa/social/data.html}
+\url{http://www.stat.ufl.edu/~aa/social/data.html}
 }
 \description{
-  The data are from Statistical Abstract of the United
-  States and most variables were measured in 1993. Table
-  9.1 of the 3rd edition, and some appear in Table 9.1 of
-  the 4th edition.
+The data are from Statistical Abstract of the United States
+and most variables were measured in 1993. Table 9.1 of the
+3rd edition, and some appear in Table 9.1 of the 4th
+edition.
 }
 \examples{
 data(statewide.crime.2)
 summary(statewide.crime.2)
 }
-\keyword{datasets}
 

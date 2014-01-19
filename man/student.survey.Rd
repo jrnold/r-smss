@@ -23,16 +23,15 @@
 \item{\code{LD}}{belief in life after death}
 }}
 \source{
-  \url{http://www.stat.ufl.edu/~aa/social/data.html}
+\url{http://www.stat.ufl.edu/~aa/social/data.html}
 }
 \description{
-  This data file consists of responses of graduate students
-  in the social sciences enrolled in STA 6126 in a recent
-  term at the University of Florida.
+This data file consists of responses of graduate students
+in the social sciences enrolled in STA 6126 in a recent
+term at the University of Florida.
 }
 \examples{
 data(student.survey)
 summary(student.survey)
 }
-\keyword{datasets}
 

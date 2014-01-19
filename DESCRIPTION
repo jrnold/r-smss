@@ -12,22 +12,3 @@ Suggests:
 Description: Datasets used in "Statistical Methods for the Social Sciences"
     (SMSS) by Aalan Agresti and Barbara Finlay.
 License: GPL-3
-Collate:
-    'UNdata.R'
-    'anorexia.R'
-    'birth.rates.R'
-    'crime2005.R'
-    'fertility.gdp.R'
-    'fl.crime.R'
-    'house.selling.price.2.R'
-    'mental.impairment.R'
-    'oecd.data.R'
-    'smss-package.R'
-    'statewide.crime.2.R'
-    'student.survey.R'
-    'utilities.R'
-    'house.selling.price.R'
-    'inc.ed.race.13p1.R'
-    'income.credit.R'
-    'us.pop.size.R'
-    'zagat.R'

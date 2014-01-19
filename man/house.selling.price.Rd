@@ -11,16 +11,15 @@
 \item{\code{Size}}{size of home (square feet)}
 }}
 \source{
-  \url{http://www.stat.ufl.edu/~aa/social/data.html}
+\url{http://www.stat.ufl.edu/~aa/social/data.html}
 }
 \description{
-  Selling price of homes in Gainesville, Florida, fall
-  2006, from Alachua County public records. Excerpt in
-  Table 9.4 of 4th edition.
+Selling price of homes in Gainesville, Florida, fall 2006,
+from Alachua County public records. Excerpt in Table 9.4 of
+4th edition.
 }
 \examples{
 data(house.selling.price)
 summary(house.selling.price)
 }
-\keyword{datasets}
 

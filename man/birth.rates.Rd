@@ -15,15 +15,13 @@
 \item{\code{T}}{number of televisions per 100 people.}
 }}
 \source{
-  \url{http://www.stat.ufl.edu/~aa/social/data.html}
+\url{http://www.stat.ufl.edu/~aa/social/data.html}
 }
 \description{
-  Birth rates of several nations. Table 9.13 of 3rd
-  edition.
+Birth rates of several nations. Table 9.13 of 3rd edition.
 }
 \examples{
 data(birth.rates)
 summary(birth.rates)
 }
-\keyword{datasets}
 

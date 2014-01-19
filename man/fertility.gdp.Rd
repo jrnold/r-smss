@@ -9,14 +9,13 @@
    \item{\code{GDP}}{GDP per capita}
 }}
 \source{
-  \url{http://www.stat.ufl.edu/~aa/social/data.html}
+\url{http://www.stat.ufl.edu/~aa/social/data.html}
 }
 \description{
-  Table 14.6 from the 4th edition.
+Table 14.6 from the 4th edition.
 }
 \examples{
 data(fertility.gdp)
 summary(fertility.gdp)
 }
-\keyword{datasets}
 

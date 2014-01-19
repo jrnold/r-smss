@@ -15,19 +15,18 @@
 \item{\code{FemEcon}}{Female economic activity as a percentage of the male rate}
 }}
 \source{
-  \url{http://www.stat.ufl.edu/~aa/social/data.html}
+\url{http://www.stat.ufl.edu/~aa/social/data.html}
 }
 \description{
-  The OECD (Organization for Economic Cooperation and
-  Development) is an international organized that consists
-  of developed countries.  This dataset has UN data on OECD
-  countries.
+The OECD (Organization for Economic Cooperation and
+Development) is an international organized that consists of
+developed countries.  This dataset has UN data on OECD
+countries.
 
-  See Table 3.11 and Exercise 3.6.
+See Table 3.11 and Exercise 3.6.
 }
 \examples{
 data(oecd.data)
 summary(oecd.data)
 }
-\keyword{datasets}
 

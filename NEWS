@@ -1,3 +1,8 @@
+smss 1.0.2
+------------
+
+* Bug-fix: In `fl.crime` data, spaces in COUNTY incorrectly handled in the csv
+
 smss 1.0.1
 ------------
 

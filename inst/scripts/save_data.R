@@ -1,4 +1,4 @@
-DATA_DIR <- "../.../data"
+DATA_DIR <- "../../data"
 
 ## Anorexia data
 anorexia <- read.csv("../extdata/anorexia.csv")

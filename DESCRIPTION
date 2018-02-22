@@ -11,3 +11,4 @@ Suggests:
 Description: Datasets used in "Statistical Methods for the Social Sciences"
     (SMSS) by Alan Agresti and Barbara Finlay.
 License: GPL-3
+RoxygenNote: 6.0.1
